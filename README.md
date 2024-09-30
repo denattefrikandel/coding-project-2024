@@ -10,7 +10,7 @@ Welkom bij het boekhoudprogramma van **Company X**! Dit project is ontwikkeld om
 
 Good luck...
 
-## 🚀 Functies
+## 🚀 Alle functies
 ### 1. **Offertes maken**
    - Snel en eenvoudig offertes genereren voor klanten.
    - Aanpasbare sjablonen voor verschillende soorten projecten.
