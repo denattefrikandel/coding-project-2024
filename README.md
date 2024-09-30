@@ -2,8 +2,15 @@
 
 Welkom bij het boekhoudprogramma van **Company X**! Dit project is ontwikkeld om de boekhoudprocessen van ons bedrijf te stroomlijnen en te automatiseren. Het is op maat gemaakt voor onze specifieke bedrijfsbehoeften, inclusief offertes, facturatie, BTW-verlegging, abonnementenbeheer en serviceovereenkomsten. Het doel van dit programma is om de administratieve lasten te verminderen en bedrijfsprocessen te optimaliseren.
 
-## 🚀 Functies
+## 🚦Huidige doelstelling
+### 1. Offertes maken
+   - Makkelijk offertes genereren met een input. Dit kan een Excel bestand zijn of zelfs user input in een propmt.
+   - Van deze offertes moeten we een pdf document kunnen maken. Kijk naar verschillende pdf packages die je kan runnen met python!
+   - Deze offertes moeten in een specifiek mapje worden gezet.
 
+Good luck...
+
+## 🚀 Functies
 ### 1. **Offertes maken**
    - Snel en eenvoudig offertes genereren voor klanten.
    - Aanpasbare sjablonen voor verschillende soorten projecten.
